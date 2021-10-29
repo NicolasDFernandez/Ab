@@ -1,3 +1,4 @@
 (ENG) Hello Word.
 (FRC) Salut Monde.
 (ESP) Hola Mundo.
+(IND) Namaste
